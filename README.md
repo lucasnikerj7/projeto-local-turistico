@@ -23,3 +23,5 @@ O projeto é uma simples página de turismo que exibe três destinos imperdívei
 
 📧lucas.alonso99@gmail.com 
 
+<img src ="logo-linkedin.png"> https://www.linkedin.com/in/lucasgfalonso/
+
